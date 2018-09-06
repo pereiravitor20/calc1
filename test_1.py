@@ -4,7 +4,7 @@ from arquivo import soma, menos, this_num
 
 
 def test_mais():
-        assert soma(3,2) == 5
+        assert soma(3,2) == 51
         assert soma(3,3) == 6
         assert soma(2.5,  1.5) == 4
         assert soma( -3, -11) == -14
