@@ -15,4 +15,4 @@ def test_usandostring():
         assert soma('xyz',1) == None
 
 def test_menos():      
-        assert menos(2,2) == 0
+        assert menos(3,3) == 0
